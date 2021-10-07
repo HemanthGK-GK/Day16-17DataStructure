@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\PermuteString\bin\Debug\netcoreapp3.1\PermuteString.exe
+C:\Users\91807\Desktop\Batch67\PermuteString\bin\Debug\netcoreapp3.1\PermuteString.deps.json
+C:\Users\91807\Desktop\Batch67\PermuteString\bin\Debug\netcoreapp3.1\PermuteString.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\PermuteString\bin\Debug\netcoreapp3.1\PermuteString.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\PermuteString\bin\Debug\netcoreapp3.1\PermuteString.dll
+C:\Users\91807\Desktop\Batch67\PermuteString\bin\Debug\netcoreapp3.1\PermuteString.pdb
+C:\Users\91807\Desktop\Batch67\PermuteString\obj\Debug\netcoreapp3.1\PermuteString.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\PermuteString\obj\Debug\netcoreapp3.1\PermuteString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\PermuteString\obj\Debug\netcoreapp3.1\PermuteString.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\PermuteString\obj\Debug\netcoreapp3.1\PermuteString.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\PermuteString\obj\Debug\netcoreapp3.1\PermuteString.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\PermuteString\obj\Debug\netcoreapp3.1\PermuteString.dll
+C:\Users\91807\Desktop\Batch67\PermuteString\obj\Debug\netcoreapp3.1\PermuteString.pdb
+C:\Users\91807\Desktop\Batch67\PermuteString\obj\Debug\netcoreapp3.1\PermuteString.genruntimeconfig.cache
