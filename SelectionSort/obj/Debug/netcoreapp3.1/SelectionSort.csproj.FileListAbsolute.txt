@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.exe
+C:\Users\91807\Desktop\Batch67\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.deps.json
+C:\Users\91807\Desktop\Batch67\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.dll
+C:\Users\91807\Desktop\Batch67\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.pdb
+C:\Users\91807\Desktop\Batch67\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.dll
+C:\Users\91807\Desktop\Batch67\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.pdb
+C:\Users\91807\Desktop\Batch67\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.genruntimeconfig.cache
