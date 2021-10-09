@@ -1,0 +1,14 @@
+C:\Users\91807\source\repos\PrimeRange\bin\Debug\netcoreapp3.1\PrimeRange.exe
+C:\Users\91807\source\repos\PrimeRange\bin\Debug\netcoreapp3.1\PrimeRange.deps.json
+C:\Users\91807\source\repos\PrimeRange\bin\Debug\netcoreapp3.1\PrimeRange.runtimeconfig.json
+C:\Users\91807\source\repos\PrimeRange\bin\Debug\netcoreapp3.1\PrimeRange.runtimeconfig.dev.json
+C:\Users\91807\source\repos\PrimeRange\bin\Debug\netcoreapp3.1\PrimeRange.dll
+C:\Users\91807\source\repos\PrimeRange\bin\Debug\netcoreapp3.1\PrimeRange.pdb
+C:\Users\91807\source\repos\PrimeRange\obj\Debug\netcoreapp3.1\PrimeRange.csproj.AssemblyReference.cache
+C:\Users\91807\source\repos\PrimeRange\obj\Debug\netcoreapp3.1\PrimeRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\source\repos\PrimeRange\obj\Debug\netcoreapp3.1\PrimeRange.AssemblyInfoInputs.cache
+C:\Users\91807\source\repos\PrimeRange\obj\Debug\netcoreapp3.1\PrimeRange.AssemblyInfo.cs
+C:\Users\91807\source\repos\PrimeRange\obj\Debug\netcoreapp3.1\PrimeRange.csproj.CoreCompileInputs.cache
+C:\Users\91807\source\repos\PrimeRange\obj\Debug\netcoreapp3.1\PrimeRange.dll
+C:\Users\91807\source\repos\PrimeRange\obj\Debug\netcoreapp3.1\PrimeRange.pdb
+C:\Users\91807\source\repos\PrimeRange\obj\Debug\netcoreapp3.1\PrimeRange.genruntimeconfig.cache
