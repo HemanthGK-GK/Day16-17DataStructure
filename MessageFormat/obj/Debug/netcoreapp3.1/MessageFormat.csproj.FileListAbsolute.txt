@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\MessageFormat\bin\Debug\netcoreapp3.1\MessageFormat.exe
+C:\Users\91807\Desktop\Batch67\MessageFormat\bin\Debug\netcoreapp3.1\MessageFormat.deps.json
+C:\Users\91807\Desktop\Batch67\MessageFormat\bin\Debug\netcoreapp3.1\MessageFormat.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\MessageFormat\bin\Debug\netcoreapp3.1\MessageFormat.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\MessageFormat\bin\Debug\netcoreapp3.1\MessageFormat.dll
+C:\Users\91807\Desktop\Batch67\MessageFormat\bin\Debug\netcoreapp3.1\MessageFormat.pdb
+C:\Users\91807\Desktop\Batch67\MessageFormat\obj\Debug\netcoreapp3.1\MessageFormat.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\MessageFormat\obj\Debug\netcoreapp3.1\MessageFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\MessageFormat\obj\Debug\netcoreapp3.1\MessageFormat.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\MessageFormat\obj\Debug\netcoreapp3.1\MessageFormat.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\MessageFormat\obj\Debug\netcoreapp3.1\MessageFormat.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\MessageFormat\obj\Debug\netcoreapp3.1\MessageFormat.dll
+C:\Users\91807\Desktop\Batch67\MessageFormat\obj\Debug\netcoreapp3.1\MessageFormat.pdb
+C:\Users\91807\Desktop\Batch67\MessageFormat\obj\Debug\netcoreapp3.1\MessageFormat.genruntimeconfig.cache
